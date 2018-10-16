@@ -1,0 +1,12 @@
+D:\Sel workspace\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Sel workspace\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Sel workspace\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Sel workspace\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.dll
+D:\Sel workspace\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.Support.dll
+D:\Sel workspace\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.xml
+D:\Sel workspace\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.Support.xml
+D:\Sel workspace\ConsoleApp1\ConsoleApp1\obj\Debug\TestProject_AAPC_Selenium.csprojAssemblyReference.cache
+D:\Sel workspace\ConsoleApp1\ConsoleApp1\obj\Debug\TestProject_AAPC_Selenium.csproj.CoreCompileInputs.cache
+D:\Sel workspace\ConsoleApp1\ConsoleApp1\obj\Debug\TestProject_AAPC_Selenium.csproj.CopyComplete
+D:\Sel workspace\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Sel workspace\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
